@@ -10,7 +10,7 @@ Credit card fraud is a significant problem in the financial industry, costing bi
 ## 📊 The Dataset
 **Note:** The dataset is not included in this repository due to its large size and data privacy constraints. 
 
-The data used for this project is the [Credit Card Fraud Detection dataset from Kaggle]([INSERT KAGGLE LINK HERE]). It contains transactions made by European cardholders in September 2013. 
+The data used for this project is the [Credit Card Fraud Detection dataset from Kaggle]([https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud]). It contains transactions made by European cardholders in September 2013. 
 * **Total Transactions:** 284,807
 * **Fraudulent Transactions:** 492 (Highly imbalanced dataset: ~0.17%)
 * **Features:** 28 numerical features resulting from PCA transformation (V1-V28), plus `Time` and `Amount`.
